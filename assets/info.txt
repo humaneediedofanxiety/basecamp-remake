@@ -1,0 +1,19 @@
+So what do I need to make the site.
+
+-> All the images in the homepage.
+-> The name of all the fonts.
+-> All the details containing the font sizes so I can create a design system.
+-> Some css knowledge about smooth transitions and animations and responsive design.
+
+Okay I got all the images now time to note down the most used text sizes, fonts and colors.
+Fonts 
+- Graphic Sans Serif 
+
+colors
+#1D2D35
+#1E64E6
+#27802A 
+#268829
+
+Ok all done
+so lets start by building the navbar innit.
